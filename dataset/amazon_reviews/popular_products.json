@@ -1,0 +1,92 @@
+{
+  "rasasi hawas": [
+    {
+      "platform": "AMAZON",
+      "rawText": "One of the best summer perfumes. I would highly recommend this product. It lasts a very long time.",
+      "sentimentScore": 0.8,
+      "metadata": { "verifiedPurchase": true, "rating": 5, "helpfulVotes": 42 }
+    },
+    {
+      "platform": "AMAZON",
+      "rawText": "Smells amazing, definitely getting compliments. Very fresh and aquatic.",
+      "sentimentScore": 0.9,
+      "metadata": { "verifiedPurchase": true, "rating": 5, "helpfulVotes": 18 }
+    },
+    {
+      "platform": "AMAZON",
+      "rawText": "Good projection but it gave me a headache after a while. A bit too synthetic for my taste.",
+      "sentimentScore": -0.2,
+      "metadata": { "verifiedPurchase": true, "rating": 3, "helpfulVotes": 5 }
+    },
+    {
+      "platform": "AMAZON",
+      "rawText": "Bottle leaked during shipping. The fragrance is fine but packaging is terrible.",
+      "sentimentScore": -0.5,
+      "metadata": { "verifiedPurchase": false, "rating": 2, "helpfulVotes": 12 }
+    },
+    {
+      "platform": "AMAZON",
+      "rawText": "Absolutely love the plum and aquatic notes. Beast mode performance, lasts 10+ hours.",
+      "sentimentScore": 1.0,
+      "metadata": { "verifiedPurchase": true, "rating": 5, "helpfulVotes": 150 }
+    }
+  ],
+  "rasasi hawas ice": [
+    {
+      "platform": "AMAZON",
+      "rawText": "The new ice version is incredibly fresh. Better than the original in my opinion for high heat.",
+      "sentimentScore": 0.9,
+      "metadata": { "verifiedPurchase": true, "rating": 5, "helpfulVotes": 56 }
+    },
+    {
+      "platform": "AMAZON",
+      "rawText": "Performance is weaker than the original Hawas. It disappears after 4 hours.",
+      "sentimentScore": -0.6,
+      "metadata": { "verifiedPurchase": true, "rating": 2, "helpfulVotes": 34 }
+    },
+    {
+      "platform": "AMAZON",
+      "rawText": "Very citrusy and minty opening. Great for gym and casual wear. Highly recommend.",
+      "sentimentScore": 0.8,
+      "metadata": { "verifiedPurchase": true, "rating": 4, "helpfulVotes": 11 }
+    },
+    {
+      "platform": "AMAZON",
+      "rawText": "Overpriced for what it is. Smells too similar to Invictus Aqua but costs more.",
+      "sentimentScore": -0.4,
+      "metadata": { "verifiedPurchase": false, "rating": 3, "helpfulVotes": 23 }
+    }
+  ],
+  "iphone 16": [
+    {
+      "platform": "AMAZON",
+      "rawText": "The display is incredibly crisp and the new camera control button is a game changer for photography.",
+      "sentimentScore": 0.9,
+      "metadata": { "verifiedPurchase": true, "rating": 5, "helpfulVotes": 342 }
+    },
+    {
+      "platform": "AMAZON",
+      "rawText": "Battery drains extremely fast after the latest update. Barely lasts half a day with normal usage.",
+      "sentimentScore": -0.8,
+      "metadata": { "verifiedPurchase": true, "rating": 2, "helpfulVotes": 184 }
+    },
+    {
+      "platform": "AMAZON",
+      "rawText": "The phone overheats significantly during gaming sessions. Thermal throttling is very noticeable on the base model.",
+      "sentimentScore": -0.7,
+      "metadata": { "verifiedPurchase": true, "rating": 3, "helpfulVotes": 101 }
+    },
+    {
+      "platform": "AMAZON",
+      "rawText": "Camera quality in low light is disappointing compared to competitors. Night mode processing takes too long.",
+      "sentimentScore": -0.5,
+      "metadata": { "verifiedPurchase": false, "rating": 3, "helpfulVotes": 19 }
+    },
+    {
+      "platform": "AMAZON",
+      "rawText": "The 60Hz display feels outdated in 2024. Scrolling is noticeably less smooth than 120Hz phones at this price.",
+      "sentimentScore": -0.6,
+      "metadata": { "verifiedPurchase": true, "rating": 2, "helpfulVotes": 40 }
+    }
+  ]
+}
